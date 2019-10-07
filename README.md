@@ -12,11 +12,11 @@
 ## Personal Portafolio
 
 
-[![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/aLoNsolml/mat281_portfolio_template/master?urlpath=lab)
+[![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/BOlguin/mat281_portfolio/master?urlpath=lab)
 
-* __John Titor__ : [](https://www.linkedin.com/in/williamhgates/)
+* __Brandon Olguín__ : [](www.linkedin.com/in/BrandonOlguinB/)
 
-* __Repositorio Curso__: [GitHub](https://github.com/aLoNsolml/mat281_2019S2)
+* __Repositorio Curso__: [GitHub](https://github.com/BOlguin/MAT281_portfolio)
 
 * __Licencia__: [MIT](./LICENCE.md)
 
