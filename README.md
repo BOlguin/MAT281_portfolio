@@ -12,7 +12,7 @@
 ## Personal Portafolio
 
 
-[![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/BOlguin/mat281_portfolio/master?urlpath=lab)
+[![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/BOlguin/MAT281_portfolio/master?urlpath=lab)
 
 * __Brandon Olguín__ : [LinkedIn](https://www.linkedin.com/in/BrandonOlguinB/)
 
